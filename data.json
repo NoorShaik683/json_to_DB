@@ -1,0 +1,27 @@
+[
+
+    {
+        "name":"Noor1",
+        "email":"noorshaik.developer5@gmail.com",
+        "hello":"welcome",
+        "bye":"hmm",
+        "try":"cool",
+        "num":10
+    },
+    {
+        "name":"Noor2",
+        "email":"noorshaik.developer2@gmail.com",
+        "hello":"welcome",
+        "bye":"hmm",
+        "try":"cool",
+        "num":1
+    },
+    {
+        "name":"Noor3",
+        "email":"noorshaik.developer3@gmail.com",
+        "hello":"welcome",
+        "bye":"hmm",
+        "try":"cool",
+        "num":15
+    }
+]
